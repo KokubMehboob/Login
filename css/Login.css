@@ -38,7 +38,7 @@ background: transparent;
 	color:white;
 }
 .fullPage{
-background-image: url(../image/loginImage.jfif);
+background-image: url(../image/LoginImage.jfif);
 
 backdrop-filter: blur(5px);
 height: 100vh;
